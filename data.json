@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest — 2026-10-27",
   "date": "2026-10-27",
   "timezone": "America/Edmonton",
-  "updated": "2026-10-28T06:38:49-06:00",
+  "updated": "2026-10-28T06:41:49-06:00",
   "brand_title": "Crypto Desk X Virality Score",
   "brand_handle": "@noolanded",
   "hits": [
@@ -143,8 +143,8 @@
         "matched_keywords": [
           "Ripple",
           "RLUSD",
-          "stablecoin",
           "Treasury",
+          "stablecoin",
           "support",
           "Ripple Treasury"
         ],
@@ -203,9 +203,9 @@
           "RLUSD",
           "XRP Ledger",
           "BNY",
-          "institutional",
           "tokenized",
-          "custody"
+          "custody",
+          "institutional"
         ],
         "media": "image",
         "note": "",
@@ -250,7 +250,7 @@
       },
       "top10_rank": 5,
       "why_hit": {
-        "trend_match": 55,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -302,7 +302,7 @@
       },
       "top10_rank": 6,
       "why_hit": {
-        "trend_match": 95,
+        "trend_match": 94,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -538,7 +538,7 @@
       "self_quote_label": "self-quote",
       "board_rank": 11,
       "why_hit": {
-        "trend_match": 39,
+        "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
           "BTC",
@@ -579,11 +579,11 @@
         "matched_keywords": [
           "Ripple",
           "Treasury",
-          "Ripple's",
           "Swell",
+          "Ripple's",
           "U.S",
-          "Treasury Secretary",
-          "Scott Bessent"
+          "Scott Bessent",
+          "Treasury Secretary"
         ],
         "media": "image",
         "note": "",
@@ -652,7 +652,7 @@
       "lane": "watchlist",
       "board_rank": 14,
       "why_hit": {
-        "trend_match": 74,
+        "trend_match": 73,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -695,7 +695,7 @@
       "self_quote_label": "self-quote",
       "board_rank": 15,
       "why_hit": {
-        "trend_match": 39,
+        "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
           "BTC",
@@ -773,7 +773,7 @@
       "quoted_author": "@RealGrapedrop",
       "board_rank": 17,
       "why_hit": {
-        "trend_match": 87,
+        "trend_match": 85,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -864,8 +864,8 @@
           "Treasury",
           "Swell",
           "U.S",
-          "Treasury Secretary",
-          "Scott Bessent"
+          "Scott Bessent",
+          "Treasury Secretary"
         ],
         "media": "image",
         "note": "",
@@ -901,7 +901,7 @@
       "self_quote_label": "self-quote",
       "board_rank": 20,
       "why_hit": {
-        "trend_match": 53,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "BTC",
@@ -979,7 +979,7 @@
       "quoted_author": "@lynncomerford",
       "board_rank": 22,
       "why_hit": {
-        "trend_match": 35,
+        "trend_match": 22,
         "verdict": "coincidence/other",
         "matched_keywords": [
           "institutional"
@@ -1052,11 +1052,12 @@
       "lane": "watchlist",
       "board_rank": 24,
       "why_hit": {
-        "trend_match": 31,
+        "trend_match": 46,
         "verdict": "visual",
         "matched_keywords": [
           "Stellar",
-          "Nasdaq-100"
+          "Nasdaq-100",
+          "Centrifuge"
         ],
         "media": "video",
         "note": "",
@@ -1092,7 +1093,7 @@
       "self_quote_label": "self-quote",
       "board_rank": 27,
       "why_hit": {
-        "trend_match": 39,
+        "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
           "BTC",
@@ -1132,16 +1133,16 @@
       "self_quote_label": "self-quote",
       "board_rank": 28,
       "why_hit": {
-        "trend_match": 87,
+        "trend_match": 89,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
           "BNY",
           "Treasury",
           "Swell",
-          "Treasury Secretary",
           "Ripple Swell",
-          "Scott Bessent"
+          "Scott Bessent",
+          "Treasury Secretary"
         ],
         "media": "text",
         "note": "",
@@ -1173,7 +1174,7 @@
       "lane": "watchlist",
       "board_rank": 29,
       "why_hit": {
-        "trend_match": 53,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "BTC",
@@ -1214,7 +1215,7 @@
       "self_quote_label": "self-quote",
       "board_rank": 30,
       "why_hit": {
-        "trend_match": 93,
+        "trend_match": 94,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -1223,9 +1224,9 @@
           "Treasury",
           "Swell",
           "U.S",
-          "Treasury Secretary",
           "Ripple Swell",
-          "Scott Bessent"
+          "Scott Bessent",
+          "Treasury Secretary"
         ],
         "media": "video",
         "note": "",
@@ -1327,7 +1328,7 @@
       "quoted_author": "@Xaif_Crypto",
       "board_rank": 33,
       "why_hit": {
-        "trend_match": 74,
+        "trend_match": 71,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -1443,13 +1444,13 @@
       "lane": "watchlist",
       "board_rank": 36,
       "why_hit": {
-        "trend_match": 92,
+        "trend_match": 90,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
           "Bank",
-          "payments",
           "Treasury",
+          "payments",
           "custody",
           "Ripple's",
           "digital asset custody",
@@ -1487,7 +1488,7 @@
       "quoted_author": "@Ripple",
       "board_rank": 37,
       "why_hit": {
-        "trend_match": 88,
+        "trend_match": 85,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -1529,15 +1530,15 @@
       "quoted_author": "@Ripple",
       "board_rank": 38,
       "why_hit": {
-        "trend_match": 94,
+        "trend_match": 93,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
           "RLUSD",
-          "payments",
           "BNY",
-          "institutional",
           "tokenized",
+          "payments",
+          "institutional",
           "support",
           "settlement"
         ],
@@ -1673,12 +1674,13 @@
       "lane": "watchlist",
       "board_rank": 42,
       "why_hit": {
-        "trend_match": 40,
-        "verdict": "author/audience",
+        "trend_match": 53,
+        "verdict": "trend",
         "matched_keywords": [
           "Stellar",
           "Nasdaq-100",
-          "onchain"
+          "onchain",
+          "Centrifuge"
         ],
         "media": "text",
         "note": "",
@@ -1748,12 +1750,12 @@
       "lane": "watchlist",
       "board_rank": 44,
       "why_hit": {
-        "trend_match": 53,
+        "trend_match": 58,
         "verdict": "trend",
         "matched_keywords": [
           "Stellar",
-          "XLM",
           "Nasdaq-100",
+          "XLM",
           "Janus Henderson"
         ],
         "media": "image",
@@ -1821,14 +1823,14 @@
       "lane": "watchlist",
       "board_rank": 46,
       "why_hit": {
-        "trend_match": 86,
+        "trend_match": 83,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
           "Bank",
           "BNY",
-          "institutional",
-          "custody"
+          "custody",
+          "institutional"
         ],
         "media": "text",
         "note": "",
@@ -2051,14 +2053,14 @@
       "self_quote_label": "self-quote",
       "board_rank": 52,
       "why_hit": {
-        "trend_match": 91,
+        "trend_match": 89,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
           "Ripple",
           "XRP Ledger",
-          "payments",
           "BNY",
+          "payments",
           "C2FO"
         ],
         "media": "image",
@@ -2161,7 +2163,7 @@
       "lane": "watchlist",
       "board_rank": 55,
       "why_hit": {
-        "trend_match": 43,
+        "trend_match": 31,
         "verdict": "visual",
         "matched_keywords": [
           "institutional",
@@ -2197,7 +2199,7 @@
       "lane": "watchlist",
       "board_rank": 56,
       "why_hit": {
-        "trend_match": 55,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -2234,13 +2236,13 @@
       "lane": "watchlist",
       "board_rank": 57,
       "why_hit": {
-        "trend_match": 77,
+        "trend_match": 80,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
           "Ripple",
-          "Ripple's",
           "Swell",
+          "Ripple's",
           "Ripple Swell"
         ],
         "media": "text",
@@ -2387,13 +2389,13 @@
       "quoted_author": "@Ripple",
       "board_rank": 61,
       "why_hit": {
-        "trend_match": 93,
+        "trend_match": 92,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
           "RLUSD",
-          "stablecoin",
           "Treasury",
+          "stablecoin",
           "institutional",
           "Robinhood",
           "settlement",
@@ -2473,11 +2475,11 @@
       "self_quote_label": "self-quote",
       "board_rank": 63,
       "why_hit": {
-        "trend_match": 71,
+        "trend_match": 76,
         "verdict": "trend",
         "matched_keywords": [
-          "stablecoin",
           "Bank",
+          "stablecoin",
           "tokenized",
           "onchain"
         ],
@@ -2546,7 +2548,7 @@
       "lane": "watchlist",
       "board_rank": 65,
       "why_hit": {
-        "trend_match": 63,
+        "trend_match": 55,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -2622,7 +2624,7 @@
       "self_quote_label": "self-quote",
       "board_rank": 67,
       "why_hit": {
-        "trend_match": 86,
+        "trend_match": 83,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -2661,14 +2663,15 @@
       "lane": "watchlist",
       "board_rank": 68,
       "why_hit": {
-        "trend_match": 59,
+        "trend_match": 73,
         "verdict": "trend",
         "matched_keywords": [
           "tokenized",
           "Stellar",
           "Nasdaq-100",
           "Janus Henderson",
-          "Wall Street"
+          "Wall Street",
+          "Centrifuge"
         ],
         "media": "text",
         "note": "",
@@ -2700,8 +2703,8 @@
       "lane": "watchlist",
       "board_rank": 69,
       "why_hit": {
-        "trend_match": 49,
-        "verdict": "visual",
+        "trend_match": 58,
+        "verdict": "trend",
         "matched_keywords": [
           "Bank",
           "tokenized"
@@ -2736,13 +2739,14 @@
       "lane": "watchlist",
       "board_rank": 70,
       "why_hit": {
-        "trend_match": 53,
+        "trend_match": 63,
         "verdict": "trend",
         "matched_keywords": [
           "Stellar",
-          "XLM",
           "Nasdaq-100",
-          "Janus Henderson"
+          "XLM",
+          "Janus Henderson",
+          "Centrifuge"
         ],
         "media": "image",
         "note": "",
@@ -2811,7 +2815,7 @@
       "quoted_author": "@Ripple",
       "board_rank": 72,
       "why_hit": {
-        "trend_match": 86,
+        "trend_match": 83,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -2885,7 +2889,7 @@
       "lane": "watchlist",
       "board_rank": 74,
       "why_hit": {
-        "trend_match": 77,
+        "trend_match": 69,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -3001,7 +3005,7 @@
       "quoted_author": "@Ripple",
       "board_rank": 77,
       "why_hit": {
-        "trend_match": 94,
+        "trend_match": 95,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -3011,9 +3015,9 @@
           "BTC",
           "custody",
           "support",
+          "digital asset custody",
           "SOL",
-          "USDC",
-          "digital asset custody"
+          "USDC"
         ],
         "media": "text",
         "note": "",
@@ -3084,16 +3088,16 @@
       "lane": "watchlist",
       "board_rank": 79,
       "why_hit": {
-        "trend_match": 87,
+        "trend_match": 89,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
           "Ripple",
           "Treasury",
           "Swell",
-          "Treasury Secretary",
           "Ripple Swell",
-          "Scott Bessent"
+          "Scott Bessent",
+          "Treasury Secretary"
         ],
         "media": "image",
         "note": "",
@@ -3162,7 +3166,7 @@
       "lane": "watchlist",
       "board_rank": 82,
       "why_hit": {
-        "trend_match": 80,
+        "trend_match": 78,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -3279,7 +3283,7 @@
       "lane": "watchlist",
       "board_rank": 85,
       "why_hit": {
-        "trend_match": 67,
+        "trend_match": 73,
         "verdict": "trend",
         "matched_keywords": [
           "Bank",
@@ -3321,8 +3325,8 @@
         "matched_keywords": [
           "Ripple",
           "RLUSD",
-          "stablecoin",
           "Bank",
+          "stablecoin",
           "Ripple's"
         ],
         "media": "image",
@@ -3399,9 +3403,9 @@
           "XRP",
           "Ripple",
           "XRP Ledger",
-          "payments",
           "BNY",
           "tokenized",
+          "payments",
           "onchain"
         ],
         "media": "image",
@@ -3467,7 +3471,7 @@
       "lane": "watchlist",
       "board_rank": 90,
       "why_hit": {
-        "trend_match": 39,
+        "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
           "BTC",
@@ -3577,7 +3581,7 @@
       "lane": "watchlist",
       "board_rank": 93,
       "why_hit": {
-        "trend_match": 93,
+        "trend_match": 94,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -3620,7 +3624,7 @@
       "lane": "watchlist",
       "board_rank": 94,
       "why_hit": {
-        "trend_match": 22,
+        "trend_match": 12,
         "verdict": "visual",
         "matched_keywords": [
           "October"
@@ -3655,7 +3659,7 @@
       "lane": "watchlist",
       "board_rank": 95,
       "why_hit": {
-        "trend_match": 35,
+        "trend_match": 22,
         "verdict": "visual",
         "matched_keywords": [
           "payments"
@@ -3727,7 +3731,7 @@
       "lane": "watchlist",
       "board_rank": 97,
       "why_hit": {
-        "trend_match": 77,
+        "trend_match": 69,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -3845,7 +3849,7 @@
       "lane": "watchlist",
       "board_rank": 100,
       "why_hit": {
-        "trend_match": 96,
+        "trend_match": 95,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -3853,11 +3857,11 @@
           "RLUSD",
           "Bank",
           "payments",
-          "institutional",
           "custody",
+          "institutional",
           "support",
-          "National Trust Bank",
-          "digital asset custody"
+          "digital asset custody",
+          "National Trust Bank"
         ],
         "media": "image",
         "note": "",
@@ -3928,14 +3932,15 @@
       "lane": "watchlist",
       "board_rank": 102,
       "why_hit": {
-        "trend_match": 59,
+        "trend_match": 68,
         "verdict": "trend",
         "matched_keywords": [
           "Stellar",
-          "XLM",
           "Nasdaq-100",
+          "XLM",
           "Janus Henderson",
-          "onchain"
+          "onchain",
+          "Centrifuge"
         ],
         "media": "image",
         "note": "",
@@ -3978,8 +3983,8 @@
           "custody",
           "support",
           "C2FO",
-          "Wall Street",
-          "digital asset custody"
+          "digital asset custody",
+          "Wall Street"
         ],
         "media": "image",
         "note": "",
@@ -4122,7 +4127,7 @@
       "lane": "watchlist",
       "board_rank": 107,
       "why_hit": {
-        "trend_match": 67,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "Treasury",
@@ -4159,7 +4164,7 @@
       "lane": "watchlist",
       "board_rank": 108,
       "why_hit": {
-        "trend_match": 53,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "BTC",
@@ -4276,12 +4281,13 @@
       "self_quote_label": "self-quote",
       "board_rank": 111,
       "why_hit": {
-        "trend_match": 40,
-        "verdict": "visual",
+        "trend_match": 53,
+        "verdict": "trend",
         "matched_keywords": [
           "Stellar",
           "Nasdaq-100",
-          "Janus Henderson"
+          "Janus Henderson",
+          "Centrifuge"
         ],
         "media": "video",
         "note": "",
@@ -4313,7 +4319,7 @@
       "lane": "watchlist",
       "board_rank": 112,
       "why_hit": {
-        "trend_match": 88,
+        "trend_match": 85,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -4388,7 +4394,7 @@
       "lane": "outsider",
       "board_rank": 26,
       "why_hit": {
-        "trend_match": 87,
+        "trend_match": 85,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -4429,8 +4435,8 @@
       "lane": "outsider",
       "board_rank": 80,
       "why_hit": {
-        "trend_match": 46,
-        "verdict": "coincidence/other",
+        "trend_match": 50,
+        "verdict": "trend",
         "matched_keywords": [
           "BTC",
           "HBAR",
@@ -4867,7 +4873,19 @@
       "board_rank": 118
     }
   ],
-  "patterns": [],
+  "patterns": [
+    "Ripple Swell 2026 day 1 (NYC, The Shed)",
+    "Ripple x Robinhood (RLUSD, Ripple Treasury, Ripple Prime)",
+    "BNY adds XRP and RLUSD to its Digital Asset Custody platform",
+    "Ripple x C2FO trade finance on the XRP Ledger (Instant Pay, RLUSD settlement)",
+    "Scott Bessent on stage with Brad Garlinghouse",
+    "Janus Henderson JQQQ Nasdaq-100 fund on Stellar (Centrifuge)",
+    "Moody's rates RLUSD A2 / P-1",
+    "BTC bearish retests and bear-market level comparisons",
+    "Teaser count-in videos and one-line 'coming up next' posts",
+    "ALL CAPS 'JUST IN' headline then quote from the press release",
+    "skeptic/hater framing (terrible day to be an XRP hater, banks won't use XRP)"
+  ],
   "no_hits": [
     {
       "handle": "@XRPLF",
@@ -4895,8 +4913,8 @@
       "reason": "No original on 2026-10-27 reached 5,000 views; highest observed was 1,235 views (15 originals)."
     }
   ],
-  "virals_narrative": "",
-  "narrative_synthesis": "",
+  "virals_narrative": "Tuesday Oct 27 (MDT) was Swell day one and Ripple stacked partnerships before noon. The official @Ripple account posted three of the top six board posts: the Robinhood deal across RLUSD, Ripple Prime and Ripple Treasury (498.7K), BNY bringing XRP and RLUSD onto its Digital Asset Custody platform plus tokenized trade finance (434.5K) and the C2FO Instant Pay trade-finance initiative on the XRP Ledger (119.1K), plus a count-in teaser video that led XRP posts with 739.6K. The watchlist piled on: SMQKEDQG's 'Ripple and Robinhood coming up next' (74.7K) and BNY 'now supports XRP' (52.2K), ChadSteingraber quoting the BNY release (29.3K) and Robinhood's Johann Kerbrat (12.1K). Scott Bessent on stage with Brad Garlinghouse carried video (BankXRP 200.5K, Xaif_Crypto 30.2K) and Xfinancebull's 'CLARITY Act failing does not stop U.S. crypto rules' recap (34.9K). Saylor's one-line Bitcoin analogy was the day's top post at 1.08M; rektcapital's bearish BTC retest charts each did 25-43K. On Stellar, Janus Henderson and Centrifuge launched JQQQ, a Nasdaq-100 fund issued only on Stellar (StellarOrg 28.0K and 20.0K, SMQKEDQG 19.1K, DenelleDixon 11.2K). Late in the day Moody's rated RLUSD A2/P-1 (Xfinancebull 7.4K). XRPLF and XDCNetwork posted no originals.",
+  "narrative_synthesis": "Tuesday Oct 27 (MDT) was Swell day one and Ripple stacked partnerships before noon. The official @Ripple account posted three of the top six board posts: the Robinhood deal across RLUSD, Ripple Prime and Ripple Treasury (498.7K), BNY bringing XRP and RLUSD onto its Digital Asset Custody platform plus tokenized trade finance (434.5K) and the C2FO Instant Pay trade-finance initiative on the XRP Ledger (119.1K), plus a count-in teaser video that led XRP posts with 739.6K. The watchlist piled on: SMQKEDQG's 'Ripple and Robinhood coming up next' (74.7K) and BNY 'now supports XRP' (52.2K), ChadSteingraber quoting the BNY release (29.3K) and Robinhood's Johann Kerbrat (12.1K). Scott Bessent on stage with Brad Garlinghouse carried video (BankXRP 200.5K, Xaif_Crypto 30.2K) and Xfinancebull's 'CLARITY Act failing does not stop U.S. crypto rules' recap (34.9K). Saylor's one-line Bitcoin analogy was the day's top post at 1.08M; rektcapital's bearish BTC retest charts each did 25-43K. On Stellar, Janus Henderson and Centrifuge launched JQQQ, a Nasdaq-100 fund issued only on Stellar (StellarOrg 28.0K and 20.0K, SMQKEDQG 19.1K, DenelleDixon 11.2K). Late in the day Moody's rated RLUSD A2/P-1 (Xfinancebull 7.4K). XRPLF and XDCNetwork posted no originals.",
   "virals_window": "last ~48h",
   "virals_target": 20,
   "hits_count": 109,
@@ -7467,7 +7485,49 @@
     "start_local": "2026-10-27T00:00:00-06:00",
     "end_local": "2026-10-27T23:59:59-06:00"
   },
-  "keyword_brief": {},
+  "keyword_brief": {
+    "phrases": [
+      "Swell",
+      "Robinhood",
+      "RLUSD",
+      "Ripple Treasury",
+      "Ripple Prime",
+      "BNY",
+      "Digital Asset Custody",
+      "XRP Ledger",
+      "C2FO",
+      "Instant Pay",
+      "tokenized trade finance",
+      "Scott Bessent",
+      "Janus Henderson",
+      "JQQQ",
+      "Nasdaq-100",
+      "Centrifuge",
+      "Stellar",
+      "Moody's"
+    ],
+    "recurring_names": [
+      "Ripple",
+      "Brad Garlinghouse",
+      "Scott Bessent",
+      "Robinhood / Johann Kerbrat",
+      "BNY",
+      "C2FO",
+      "Monica Long",
+      "Janus Henderson",
+      "Centrifuge",
+      "Denelle Dixon (Stellar)",
+      "Michael Saylor"
+    ],
+    "structures": [
+      "count-in teaser video with no text (Ripple '5, 6, 7, 8')",
+      "'coming up next' one-liner before an official announcement (SMQKEDQG)",
+      "ALL-CAPS JUST IN headline plus a direct quote from the release",
+      "on-stage clip of an exec with a government official",
+      "analogy one-liner (Saylor: Bitcoin vs inventing a language)",
+      "chart with exact levels and a bearish/bullish line in the sand (rektcapital)"
+    ]
+  },
   "trend_input_only": [
     "@bscnews",
     "@cointalkx",
@@ -7554,281 +7614,281 @@
       {
         "keyword": "XRP",
         "rank": 1,
-        "score": 1806.7,
+        "score": 2348.7,
         "posts": 53,
         "authors": 17
       },
       {
         "keyword": "Ripple",
         "rank": 2,
-        "score": 1260.0,
+        "score": 1637.9,
         "posts": 44,
         "authors": 14
       },
       {
         "keyword": "RLUSD",
         "rank": 3,
-        "score": 700.3,
+        "score": 910.4,
         "posts": 26,
         "authors": 13
       },
       {
         "keyword": "XRP Ledger",
         "rank": 4,
-        "score": 503.7,
+        "score": 654.7,
         "posts": 16,
         "authors": 11
       },
       {
-        "keyword": "stablecoin",
-        "rank": 5,
-        "score": 342.3,
-        "posts": 22,
-        "authors": 9
-      },
-      {
         "keyword": "Bank",
-        "rank": 6,
-        "score": 337.9,
+        "rank": 5,
+        "score": 439.2,
         "posts": 16,
         "authors": 10
       },
       {
-        "keyword": "payments",
-        "rank": 7,
-        "score": 311.2,
-        "posts": 17,
-        "authors": 11
-      },
-      {
         "keyword": "BNY",
-        "rank": 8,
-        "score": 310.2,
+        "rank": 6,
+        "score": 403.3,
         "posts": 16,
         "authors": 9
       },
       {
         "keyword": "Treasury",
-        "rank": 9,
-        "score": 287.6,
+        "rank": 7,
+        "score": 373.8,
         "posts": 14,
         "authors": 9
       },
       {
-        "keyword": "institutional",
-        "rank": 10,
-        "score": 278.0,
-        "posts": 16,
-        "authors": 10
+        "keyword": "stablecoin",
+        "rank": 8,
+        "score": 342.3,
+        "posts": 22,
+        "authors": 9
       },
       {
         "keyword": "BTC",
-        "rank": 11,
-        "score": 254.9,
+        "rank": 9,
+        "score": 331.4,
         "posts": 16,
         "authors": 7
       },
       {
         "keyword": "tokenized",
-        "rank": 12,
-        "score": 252.6,
+        "rank": 10,
+        "score": 328.4,
         "posts": 16,
         "authors": 9
       },
       {
+        "keyword": "payments",
+        "rank": 11,
+        "score": 311.2,
+        "posts": 17,
+        "authors": 11
+      },
+      {
         "keyword": "custody",
-        "rank": 13,
-        "score": 234.3,
+        "rank": 12,
+        "score": 304.6,
         "posts": 15,
         "authors": 9
       },
       {
+        "keyword": "institutional",
+        "rank": 13,
+        "score": 278.0,
+        "posts": 16,
+        "authors": 10
+      },
+      {
         "keyword": "Robinhood",
         "rank": 14,
-        "score": 208.8,
+        "score": 271.4,
         "posts": 13,
         "authors": 7
       },
       {
-        "keyword": "Bitcoin",
+        "keyword": "Swell",
         "rank": 15,
+        "score": 250.2,
+        "posts": 13,
+        "authors": 6
+      },
+      {
+        "keyword": "Stellar",
+        "rank": 16,
+        "score": 223.4,
+        "posts": 11,
+        "authors": 7
+      },
+      {
+        "keyword": "Bitcoin",
+        "rank": 17,
         "score": 204.1,
         "posts": 16,
         "authors": 5
       },
       {
         "keyword": "support",
-        "rank": 16,
+        "rank": 18,
         "score": 199.7,
         "posts": 14,
         "authors": 8
       },
       {
         "keyword": "Ripple's",
-        "rank": 17,
+        "rank": 19,
         "score": 193.9,
         "posts": 11,
         "authors": 8
       },
       {
-        "keyword": "Swell",
-        "rank": 18,
-        "score": 192.5,
-        "posts": 13,
-        "authors": 6
-      },
-      {
         "keyword": "U.S",
-        "rank": 19,
+        "rank": 20,
         "score": 173.6,
         "posts": 12,
         "authors": 6
       },
       {
-        "keyword": "Stellar",
-        "rank": 20,
-        "score": 171.8,
-        "posts": 11,
-        "authors": 7
-      },
-      {
         "keyword": "C2FO",
         "rank": 21,
-        "score": 129.5,
+        "score": 168.4,
         "posts": 8,
         "authors": 7
       },
       {
-        "keyword": "XLM",
+        "keyword": "Ripple Swell",
         "rank": 22,
+        "score": 149.1,
+        "posts": 7,
+        "authors": 5
+      },
+      {
+        "keyword": "Nasdaq-100",
+        "rank": 23,
+        "score": 146.8,
+        "posts": 8,
+        "authors": 6
+      },
+      {
+        "keyword": "Scott Bessent",
+        "rank": 24,
+        "score": 137.1,
+        "posts": 6,
+        "authors": 5
+      },
+      {
+        "keyword": "XLM",
+        "rank": 25,
         "score": 127.1,
         "posts": 10,
         "authors": 6
       },
       {
         "keyword": "HBAR",
-        "rank": 23,
+        "rank": 26,
         "score": 121.9,
         "posts": 9,
         "authors": 7
       },
       {
         "keyword": "October",
-        "rank": 24,
+        "rank": 27,
         "score": 121.9,
         "posts": 10,
         "authors": 5
       },
       {
         "keyword": "Treasury Secretary",
-        "rank": 25,
+        "rank": 28,
         "score": 119.2,
         "posts": 7,
         "authors": 5
       },
       {
-        "keyword": "Ripple Swell",
-        "rank": 26,
-        "score": 114.7,
-        "posts": 7,
-        "authors": 5
-      },
-      {
-        "keyword": "Nasdaq-100",
-        "rank": 27,
-        "score": 112.9,
-        "posts": 8,
-        "authors": 6
-      },
-      {
         "keyword": "Janus Henderson",
-        "rank": 28,
+        "rank": 29,
         "score": 110.1,
         "posts": 7,
         "authors": 5
       },
       {
-        "keyword": "Scott Bessent",
-        "rank": 29,
-        "score": 105.5,
-        "posts": 6,
+        "keyword": "settlement",
+        "rank": 30,
+        "score": 95.0,
+        "posts": 7,
         "authors": 5
       },
       {
         "keyword": "onchain",
-        "rank": 30,
+        "rank": 31,
         "score": 88.1,
         "posts": 8,
         "authors": 6
       },
       {
+        "keyword": "digital asset custody",
+        "rank": 32,
+        "score": 83.3,
+        "posts": 5,
+        "authors": 4
+      },
+      {
         "keyword": "National Trust Bank",
-        "rank": 31,
+        "rank": 33,
         "score": 79.6,
         "posts": 5,
         "authors": 4
       },
       {
         "keyword": "Wall Street",
-        "rank": 32,
+        "rank": 34,
         "score": 78.3,
         "posts": 5,
         "authors": 5
       },
       {
+        "keyword": "Ripple Treasury",
+        "rank": 35,
+        "score": 77.2,
+        "posts": 4,
+        "authors": 4
+      },
+      {
         "keyword": "SOL",
-        "rank": 33,
+        "rank": 36,
         "score": 73.3,
         "posts": 6,
         "authors": 5
       },
       {
-        "keyword": "settlement",
-        "rank": 34,
-        "score": 73.1,
-        "posts": 7,
-        "authors": 5
-      },
-      {
         "keyword": "USDC",
-        "rank": 35,
+        "rank": 37,
         "score": 73.0,
         "posts": 7,
         "authors": 4
       },
       {
         "keyword": "Ethereum",
-        "rank": 36,
+        "rank": 38,
         "score": 67.7,
         "posts": 8,
         "authors": 3
       },
       {
-        "keyword": "adoption",
-        "rank": 37,
-        "score": 64.6,
-        "posts": 8,
-        "authors": 4
-      },
-      {
-        "keyword": "digital asset custody",
-        "rank": 38,
-        "score": 64.1,
+        "keyword": "Centrifuge",
+        "rank": 39,
+        "score": 67.4,
         "posts": 5,
         "authors": 4
       },
       {
-        "keyword": "U.S Treasury Secretary",
-        "rank": 39,
-        "score": 60.2,
-        "posts": 4,
-        "authors": 3
-      },
-      {
-        "keyword": "Ripple Treasury",
+        "keyword": "adoption",
         "rank": 40,
-        "score": 59.4,
-        "posts": 4,
+        "score": 64.6,
+        "posts": 8,
         "authors": 4
       }
     ]
@@ -7853,52 +7913,52 @@
     },
     "summary": {
       "top10_line": "TOP-10: 5/10 (50%) matched trends · trend 5, visual 2, coincidence/other 2, author/audience 1",
-      "headline": "60 of 118 board hits (51%) matched 24-48 h trends. Median views: trend 12.0K vs non-trend 14.9K (mean 35.1K vs 47.5K). Watchlist: 59/109 on trend. 26 hits with video, median 13.8K vs 13.6K without.",
+      "headline": "64 of 118 board hits (54%) matched 24-48 h trends. Median views: trend 11.9K vs non-trend 15.8K (mean 33.6K vs 50.2K). Watchlist: 62/109 on trend. 26 hits with video, median 13.8K vs 13.6K without.",
       "takeaway": "Swell day one: official Ripple partnership posts plus fast watchlist relays carried the day; Saylor's one-liner took the top spot.",
       "stats": {
         "all": {
           "n": 118,
-          "trend_n": 60,
-          "trend_pct": 51,
-          "avg_trend": 35098,
-          "avg_other": 47523,
-          "median_trend": 12021,
-          "median_other": 14854,
+          "trend_n": 64,
+          "trend_pct": 54,
+          "avg_trend": 33594,
+          "avg_other": 50226,
+          "median_trend": 11900,
+          "median_other": 15842,
           "verdicts": {
-            "trend": 60,
-            "visual": 35,
-            "author/audience": 3,
-            "coincidence/other": 20
+            "trend": 64,
+            "visual": 33,
+            "author/audience": 2,
+            "coincidence/other": 19
           }
         },
         "watchlist": {
           "n": 109,
-          "trend_n": 59,
-          "trend_pct": 54,
-          "avg_trend": 35251,
-          "avg_other": 54264,
-          "median_trend": 11983,
-          "median_other": 16495,
+          "trend_n": 62,
+          "trend_pct": 57,
+          "avg_trend": 34130,
+          "avg_other": 56956,
+          "median_trend": 11900,
+          "median_other": 16737,
           "verdicts": {
-            "trend": 59,
-            "visual": 31,
-            "author/audience": 3,
+            "trend": 62,
+            "visual": 29,
+            "author/audience": 2,
             "coincidence/other": 16
           }
         },
         "outsiders": {
           "n": 9,
-          "trend_n": 1,
-          "trend_pct": 11,
-          "avg_trend": 26078,
-          "avg_other": 5395,
-          "median_trend": 26078,
-          "median_other": 1626,
+          "trend_n": 2,
+          "trend_pct": 22,
+          "avg_trend": 16990,
+          "avg_other": 5037,
+          "median_trend": 16990,
+          "median_other": 1454,
           "verdicts": {
-            "trend": 1,
+            "trend": 2,
             "visual": 4,
             "author/audience": 0,
-            "coincidence/other": 4
+            "coincidence/other": 3
           }
         },
         "top10": {
@@ -8367,8 +8427,8 @@
         "matched_keywords": [
           "Ripple",
           "RLUSD",
-          "stablecoin",
           "Treasury",
+          "stablecoin",
           "support",
           "Ripple Treasury"
         ],
@@ -8390,9 +8450,9 @@
           "RLUSD",
           "XRP Ledger",
           "BNY",
-          "institutional",
           "tokenized",
-          "custody"
+          "custody",
+          "institutional"
         ],
         "media": "image",
         "followers": 3167910,
@@ -8405,7 +8465,7 @@
         "handle": "@BankXRP",
         "lane": "watchlist",
         "views": 200532,
-        "trend_match": 55,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -8423,7 +8483,7 @@
         "handle": "@Ripple",
         "lane": "watchlist",
         "views": 119105,
-        "trend_match": 95,
+        "trend_match": 94,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -8512,7 +8572,7 @@
         "handle": "@rektcapital",
         "lane": "watchlist",
         "views": 42517,
-        "trend_match": 39,
+        "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
           "BTC",
@@ -8534,11 +8594,11 @@
         "matched_keywords": [
           "Ripple",
           "Treasury",
-          "Ripple's",
           "Swell",
+          "Ripple's",
           "U.S",
-          "Treasury Secretary",
-          "Scott Bessent"
+          "Scott Bessent",
+          "Treasury Secretary"
         ],
         "media": "image",
         "followers": 53290,
@@ -8567,7 +8627,7 @@
         "handle": "@BankXRP",
         "lane": "watchlist",
         "views": 32997,
-        "trend_match": 74,
+        "trend_match": 73,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -8587,7 +8647,7 @@
         "handle": "@rektcapital",
         "lane": "watchlist",
         "views": 31603,
-        "trend_match": 39,
+        "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
           "BTC",
@@ -8621,7 +8681,7 @@
         "handle": "@Xaif_Crypto",
         "lane": "watchlist",
         "views": 30211,
-        "trend_match": 87,
+        "trend_match": 85,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -8668,8 +8728,8 @@
           "Treasury",
           "Swell",
           "U.S",
-          "Treasury Secretary",
-          "Scott Bessent"
+          "Scott Bessent",
+          "Treasury Secretary"
         ],
         "media": "image",
         "followers": 30362,
@@ -8682,7 +8742,7 @@
         "handle": "@rektcapital",
         "lane": "watchlist",
         "views": 28350,
-        "trend_match": 53,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "BTC",
@@ -8716,7 +8776,7 @@
         "handle": "@SMQKEDQG",
         "lane": "watchlist",
         "views": 28239,
-        "trend_match": 35,
+        "trend_match": 22,
         "verdict": "coincidence/other",
         "matched_keywords": [
           "institutional"
@@ -8749,11 +8809,12 @@
         "handle": "@StellarOrg",
         "lane": "watchlist",
         "views": 27962,
-        "trend_match": 31,
+        "trend_match": 46,
         "verdict": "visual",
         "matched_keywords": [
           "Stellar",
-          "Nasdaq-100"
+          "Nasdaq-100",
+          "Centrifuge"
         ],
         "media": "video",
         "followers": 847846,
@@ -8766,7 +8827,7 @@
         "handle": "@rektcapital",
         "lane": "watchlist",
         "views": 25653,
-        "trend_match": 39,
+        "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
           "BTC",
@@ -8783,16 +8844,16 @@
         "handle": "@ChadSteingraber",
         "lane": "watchlist",
         "views": 25100,
-        "trend_match": 87,
+        "trend_match": 89,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
           "BNY",
           "Treasury",
           "Swell",
-          "Treasury Secretary",
           "Ripple Swell",
-          "Scott Bessent"
+          "Scott Bessent",
+          "Treasury Secretary"
         ],
         "media": "text",
         "followers": 77075,
@@ -8805,7 +8866,7 @@
         "handle": "@rektcapital",
         "lane": "watchlist",
         "views": 25084,
-        "trend_match": 53,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "BTC",
@@ -8823,7 +8884,7 @@
         "handle": "@Xfinancebull",
         "lane": "watchlist",
         "views": 24768,
-        "trend_match": 93,
+        "trend_match": 94,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -8832,9 +8893,9 @@
           "Treasury",
           "Swell",
           "U.S",
-          "Treasury Secretary",
           "Ripple Swell",
-          "Scott Bessent"
+          "Scott Bessent",
+          "Treasury Secretary"
         ],
         "media": "video",
         "followers": 53290,
@@ -8877,7 +8938,7 @@
         "handle": "@BankXRP",
         "lane": "watchlist",
         "views": 22542,
-        "trend_match": 74,
+        "trend_match": 71,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -8928,13 +8989,13 @@
         "handle": "@SMQKEDQG",
         "lane": "watchlist",
         "views": 21915,
-        "trend_match": 92,
+        "trend_match": 90,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
           "Bank",
-          "payments",
           "Treasury",
+          "payments",
           "custody",
           "Ripple's",
           "digital asset custody",
@@ -8951,7 +9012,7 @@
         "handle": "@BankXRP",
         "lane": "watchlist",
         "views": 21464,
-        "trend_match": 88,
+        "trend_match": 85,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -8972,15 +9033,15 @@
         "handle": "@ChadSteingraber",
         "lane": "watchlist",
         "views": 21426,
-        "trend_match": 94,
+        "trend_match": 93,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
           "RLUSD",
-          "payments",
           "BNY",
-          "institutional",
           "tokenized",
+          "payments",
+          "institutional",
           "support",
           "settlement"
         ],
@@ -9040,12 +9101,13 @@
         "handle": "@StellarOrg",
         "lane": "watchlist",
         "views": 19969,
-        "trend_match": 40,
-        "verdict": "author/audience",
+        "trend_match": 53,
+        "verdict": "trend",
         "matched_keywords": [
           "Stellar",
           "Nasdaq-100",
-          "onchain"
+          "onchain",
+          "Centrifuge"
         ],
         "media": "text",
         "followers": 847846,
@@ -9077,12 +9139,12 @@
         "handle": "@SMQKEDQG",
         "lane": "watchlist",
         "views": 19098,
-        "trend_match": 53,
+        "trend_match": 58,
         "verdict": "trend",
         "matched_keywords": [
           "Stellar",
-          "XLM",
           "Nasdaq-100",
+          "XLM",
           "Janus Henderson"
         ],
         "media": "image",
@@ -9112,14 +9174,14 @@
         "handle": "@ChartNerdTA",
         "lane": "watchlist",
         "views": 17832,
-        "trend_match": 86,
+        "trend_match": 83,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
           "Bank",
           "BNY",
-          "institutional",
-          "custody"
+          "custody",
+          "institutional"
         ],
         "media": "text",
         "followers": 37966,
@@ -9212,14 +9274,14 @@
         "handle": "@BankXRP",
         "lane": "watchlist",
         "views": 16430,
-        "trend_match": 91,
+        "trend_match": 89,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
           "Ripple",
           "XRP Ledger",
-          "payments",
           "BNY",
+          "payments",
           "C2FO"
         ],
         "media": "image",
@@ -9263,7 +9325,7 @@
         "handle": "@hedera",
         "lane": "watchlist",
         "views": 15670,
-        "trend_match": 43,
+        "trend_match": 31,
         "verdict": "visual",
         "matched_keywords": [
           "institutional",
@@ -9280,7 +9342,7 @@
         "handle": "@ChartNerdTA",
         "lane": "watchlist",
         "views": 14582,
-        "trend_match": 55,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -9298,13 +9360,13 @@
         "handle": "@ChartNerdTA",
         "lane": "watchlist",
         "views": 14509,
-        "trend_match": 77,
+        "trend_match": 80,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
           "Ripple",
-          "Ripple's",
           "Swell",
+          "Ripple's",
           "Ripple Swell"
         ],
         "media": "text",
@@ -9367,13 +9429,13 @@
         "handle": "@ChadSteingraber",
         "lane": "watchlist",
         "views": 12059,
-        "trend_match": 93,
+        "trend_match": 92,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
           "RLUSD",
-          "stablecoin",
           "Treasury",
+          "stablecoin",
           "institutional",
           "Robinhood",
           "settlement",
@@ -9409,11 +9471,11 @@
         "handle": "@BankXRP",
         "lane": "watchlist",
         "views": 11817,
-        "trend_match": 71,
+        "trend_match": 76,
         "verdict": "trend",
         "matched_keywords": [
-          "stablecoin",
           "Bank",
+          "stablecoin",
           "tokenized",
           "onchain"
         ],
@@ -9444,7 +9506,7 @@
         "handle": "@BankXRP",
         "lane": "watchlist",
         "views": 11358,
-        "trend_match": 63,
+        "trend_match": 55,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -9478,7 +9540,7 @@
         "handle": "@Xfinancebull",
         "lane": "watchlist",
         "views": 11240,
-        "trend_match": 86,
+        "trend_match": 83,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -9498,14 +9560,15 @@
         "handle": "@DenelleDixon",
         "lane": "watchlist",
         "views": 11179,
-        "trend_match": 59,
+        "trend_match": 73,
         "verdict": "trend",
         "matched_keywords": [
           "tokenized",
           "Stellar",
           "Nasdaq-100",
           "Janus Henderson",
-          "Wall Street"
+          "Wall Street",
+          "Centrifuge"
         ],
         "media": "text",
         "followers": 47040,
@@ -9518,8 +9581,8 @@
         "handle": "@Tokenicer",
         "lane": "watchlist",
         "views": 11167,
-        "trend_match": 49,
-        "verdict": "visual",
+        "trend_match": 58,
+        "verdict": "trend",
         "matched_keywords": [
           "Bank",
           "tokenized"
@@ -9535,13 +9598,14 @@
         "handle": "@RealAllinCrypto",
         "lane": "watchlist",
         "views": 11040,
-        "trend_match": 53,
+        "trend_match": 63,
         "verdict": "trend",
         "matched_keywords": [
           "Stellar",
-          "XLM",
           "Nasdaq-100",
-          "Janus Henderson"
+          "XLM",
+          "Janus Henderson",
+          "Centrifuge"
         ],
         "media": "image",
         "followers": 49189,
@@ -9570,7 +9634,7 @@
         "handle": "@BankXRP",
         "lane": "watchlist",
         "views": 10495,
-        "trend_match": 86,
+        "trend_match": 83,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -9604,7 +9668,7 @@
         "handle": "@RealAllinCrypto",
         "lane": "watchlist",
         "views": 10160,
-        "trend_match": 77,
+        "trend_match": 69,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -9655,7 +9719,7 @@
         "handle": "@Belisarius2020",
         "lane": "watchlist",
         "views": 8990,
-        "trend_match": 94,
+        "trend_match": 95,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -9665,9 +9729,9 @@
           "BTC",
           "custody",
           "support",
+          "digital asset custody",
           "SOL",
-          "USDC",
-          "digital asset custody"
+          "USDC"
         ],
         "media": "text",
         "followers": 27640,
@@ -9698,16 +9762,16 @@
         "handle": "@RealAllinCrypto",
         "lane": "watchlist",
         "views": 8671,
-        "trend_match": 87,
+        "trend_match": 89,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
           "Ripple",
           "Treasury",
           "Swell",
-          "Treasury Secretary",
           "Ripple Swell",
-          "Scott Bessent"
+          "Scott Bessent",
+          "Treasury Secretary"
         ],
         "media": "image",
         "followers": 49189,
@@ -9738,7 +9802,7 @@
         "handle": "@RealAllinCrypto",
         "lane": "watchlist",
         "views": 7681,
-        "trend_match": 80,
+        "trend_match": 78,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -9794,7 +9858,7 @@
         "handle": "@Tokenicer",
         "lane": "watchlist",
         "views": 7457,
-        "trend_match": 67,
+        "trend_match": 73,
         "verdict": "trend",
         "matched_keywords": [
           "Bank",
@@ -9817,8 +9881,8 @@
         "matched_keywords": [
           "Ripple",
           "RLUSD",
-          "stablecoin",
           "Bank",
+          "stablecoin",
           "Ripple's"
         ],
         "media": "image",
@@ -9857,9 +9921,9 @@
           "XRP",
           "Ripple",
           "XRP Ledger",
-          "payments",
           "BNY",
           "tokenized",
+          "payments",
           "onchain"
         ],
         "media": "image",
@@ -9887,7 +9951,7 @@
         "handle": "@egragcrypto",
         "lane": "watchlist",
         "views": 6940,
-        "trend_match": 39,
+        "trend_match": 49,
         "verdict": "visual",
         "matched_keywords": [
           "BTC",
@@ -9936,7 +10000,7 @@
         "handle": "@ChartNerdTA",
         "lane": "watchlist",
         "views": 6734,
-        "trend_match": 93,
+        "trend_match": 94,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -9960,7 +10024,7 @@
         "handle": "@RealAllinCrypto",
         "lane": "watchlist",
         "views": 6682,
-        "trend_match": 22,
+        "trend_match": 12,
         "verdict": "visual",
         "matched_keywords": [
           "October"
@@ -9976,7 +10040,7 @@
         "handle": "@Tokenicer",
         "lane": "watchlist",
         "views": 6479,
-        "trend_match": 35,
+        "trend_match": 22,
         "verdict": "visual",
         "matched_keywords": [
           "payments"
@@ -10006,7 +10070,7 @@
         "handle": "@RealAllinCrypto",
         "lane": "watchlist",
         "views": 6190,
-        "trend_match": 77,
+        "trend_match": 69,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -10061,7 +10125,7 @@
         "handle": "@RealAllinCrypto",
         "lane": "watchlist",
         "views": 5923,
-        "trend_match": 96,
+        "trend_match": 95,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -10069,11 +10133,11 @@
           "RLUSD",
           "Bank",
           "payments",
-          "institutional",
           "custody",
+          "institutional",
           "support",
-          "National Trust Bank",
-          "digital asset custody"
+          "digital asset custody",
+          "National Trust Bank"
         ],
         "media": "image",
         "followers": 49189,
@@ -10106,14 +10170,15 @@
         "handle": "@Xfinancebull",
         "lane": "watchlist",
         "views": 5673,
-        "trend_match": 59,
+        "trend_match": 68,
         "verdict": "trend",
         "matched_keywords": [
           "Stellar",
-          "XLM",
           "Nasdaq-100",
+          "XLM",
           "Janus Henderson",
-          "onchain"
+          "onchain",
+          "Centrifuge"
         ],
         "media": "image",
         "followers": 53290,
@@ -10137,8 +10202,8 @@
           "custody",
           "support",
           "C2FO",
-          "Wall Street",
-          "digital asset custody"
+          "digital asset custody",
+          "Wall Street"
         ],
         "media": "image",
         "followers": 49189,
@@ -10201,7 +10266,7 @@
         "handle": "@RealAllinCrypto",
         "lane": "watchlist",
         "views": 5351,
-        "trend_match": 67,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "Treasury",
@@ -10219,7 +10284,7 @@
         "handle": "@egragcrypto",
         "lane": "watchlist",
         "views": 5269,
-        "trend_match": 53,
+        "trend_match": 60,
         "verdict": "trend",
         "matched_keywords": [
           "BTC",
@@ -10273,12 +10338,13 @@
         "handle": "@Xfinancebull",
         "lane": "watchlist",
         "views": 5116,
-        "trend_match": 40,
-        "verdict": "visual",
+        "trend_match": 53,
+        "verdict": "trend",
         "matched_keywords": [
           "Stellar",
           "Nasdaq-100",
-          "Janus Henderson"
+          "Janus Henderson",
+          "Centrifuge"
         ],
         "media": "video",
         "followers": 53290,
@@ -10291,7 +10357,7 @@
         "handle": "@Xfinancebull",
         "lane": "watchlist",
         "views": 5101,
-        "trend_match": 88,
+        "trend_match": 85,
         "verdict": "trend",
         "matched_keywords": [
           "Ripple",
@@ -10326,7 +10392,7 @@
         "handle": "@WhaleFactor",
         "lane": "outsider",
         "views": 26078,
-        "trend_match": 87,
+        "trend_match": 85,
         "verdict": "trend",
         "matched_keywords": [
           "XRP",
@@ -10348,8 +10414,8 @@
         "handle": "@cryptoissimple",
         "lane": "outsider",
         "views": 7903,
-        "trend_match": 46,
-        "verdict": "coincidence/other",
+        "trend_match": 50,
+        "verdict": "trend",
         "matched_keywords": [
           "BTC",
           "HBAR",
